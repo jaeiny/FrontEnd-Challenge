@@ -1,0 +1,168 @@
+body {
+  background-color: #000;
+  font-family:  -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 12px;
+}
+
+.container {
+  margin: 50px auto;
+  padding: 0;
+  position: auto;
+  width: 414px;
+  height: 1200px;
+  background-color: #E2DED3;
+}
+
+.busNumber {
+  margin: 10px auto;
+  padding: 0;
+  position: relative;
+  width: 414px;
+  height:1090px;
+  color: #4E413B;
+  text-align: left;
+}
+
+nav {
+  margin: 0 auto;
+  padding: 0px 0px 15px 0px;
+  position: auto;
+  width: 414px;
+  background-color: #E2DED3;
+}
+
+.title {
+  margin: auto 1.5em;
+  width: 420px;
+}
+
+.searchbar {
+  margin: 15px auto;
+  position: auto;
+  height: auto;
+  width: 400px;
+}
+
+.center {
+  margin: 0 auto;
+  padding: 0px 0px 15px 0px;
+  position: auto;
+  width: 414px;
+}
+
+.right {
+  margin: 0 auto;
+  padding: 0px 0px 15px 0px;
+  position: auto;
+  width: 414px;
+}
+
+.list {
+  position: relative;
+  text-align: left;
+  color: #4E413B;
+}
+
+h1 {
+  font-size: 2.8em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.8em;
+  font-weight: bold;
+  text-align: left;
+  margin: 8px 0px 0px 10px;
+}
+
+h3 {
+  font-size: 1.8em;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px 35px 15px 0px;
+  padding-top: 30px;
+  padding-left: 8px;
+  position: relative;
+}
+
+h4 {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: left;
+  margin: 0px 30px 0px 0px;
+  width: 150px;
+  position: relative;
+}
+
+p {
+  font-size: 1.2em;
+  text-align: left;
+  margin-right: 0px;
+  width: 150px;
+  margin-left: 0;
+  margin-bottom: 10px;
+  padding-top: 25px;
+  position: absolute;
+}
+
+.bus-image {
+  padding-top: 30px;
+  position: absolute;
+}
+
+.bus-image-two {
+  padding-top: 10px;
+  position: absolute;
+  clear:both;
+}
+
+.buswaiting {
+  padding-top: 10px;
+  clear:both;
+}
+
+.right-arrow {
+  float: right;
+  padding-left: 100px;
+  padding-top: 17px;
+  position: relative;
+}
+
+.column-left {
+  float: left;
+  position: relative;
+  width: 80px;
+  padding-left: 20px;
+}
+
+.column-right {
+  float: left;
+  position: relative;
+  width: 10px;
+  padding-left: 30px;
+  padding-top: 7px;
+}
+
+.column-center {
+  display: inline-block;
+  float:left;
+  position: relative;
+  width: 100px;
+  padding-top: 32px;
+  padding-left: px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.search {
+  alight:center;
+  width: 400px;
+}
+.heart {
+  alight: right;
+  position: auto;
+}
